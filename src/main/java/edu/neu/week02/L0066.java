@@ -52,13 +52,18 @@ public class L0066 {
 
     public static void main(String[] args) {
         System.out.println("Run L0066Test.java");
-        int[] newNumber = new int[5];
-        newNumber[0] = 1;
-        for (int i = 0; i < 5; i++) {
-            System.out.print(" " + newNumber[i]);
-        }
+//        int[] newNumber = new int[5];
+//        newNumber[0] = 1;
+//        for (int i = 0; i < 5; i++) {
+//            System.out.print(" " + newNumber[i]);
+//        }
 //        Arrays.asList(newNumber).forEach((x)-> System.out.println(x));
 //        System.out.println(Arrays.asList(newNumber));
+
+        int[][] a = new int[2][];
+        a[0]= new int[]{0,1,2};
+        a[1]= new int[]{0,1,2};
+//        a[1][0] = 1;
     }
 }
 

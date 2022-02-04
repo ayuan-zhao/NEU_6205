@@ -125,7 +125,7 @@ public class L0066Test {
         //Change path below
 
         String s = "/Users/ayuan/NEU_code/6205/Ayuan_Zhao_NUID002981832_6205/L0066output.txt";
-        if (false) { //Make it to true to write to a file
+        if (true) { //Make it to true to write to a file
             System.out.println("Writing to file" + s);
             try {
                 System.setOut(new PrintStream(new FileOutputStream(s)));
@@ -138,6 +138,6 @@ public class L0066Test {
         L0066Test m = new L0066Test();
         System.out.println("Attach output file " + s);
         System.out.println("RUN NOW at: https://leetcode.com/problems/plus-one/");
-        System.out.println("L0066 problem ENDS");
+        System.out.println("L0066 proåblem ENDS");
     }
 }
