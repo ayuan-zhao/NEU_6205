@@ -1,4 +1,4 @@
-
+package edu.neu.week01;
     import java.util.Random;
 
     /**

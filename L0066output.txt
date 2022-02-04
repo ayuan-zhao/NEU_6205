@@ -1,0 +1,4 @@
+L0066 problem STARTS
+------------Problem 1 -----------------
+length of input = 1
+  2

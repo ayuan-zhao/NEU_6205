@@ -1,4 +1,5 @@
 
+package edu.neu.week01;
 
 
 import java.io.FileNotFoundException;
@@ -15,16 +16,16 @@ import java.io.PrintStream;
 /************************************************************
  NOTHING CAN BE CHANGED IN THIS FILE
  *************************************************************/
-class L0038Test {
+public class L0038Test {
 
     private boolean show = true;
     private IntUtil u = new IntUtil();
 
     L0038Test() {
         testBed();
-    }
+    }//这个直接写是
 
-    private void testBed() {
+    private void testBed() {//testBed？？？？？
         tests();
         testn();
     }
@@ -109,9 +110,9 @@ class L0038Test {
     }
 
     public static void main(String[] args) {
-        //Change path below
-        String s = "/Users/ayuan/Google Drive/NEU/course/6205";
-        if (true) { //Make it to true to write to a file
+        //Change path below! path+ L0038output.txt
+        String s = "/Users/ayuan/NEU_code/6205/Ayuan_Zhao_NUID002981832_6205/L0038output.txt";
+        if (false) { //Make it to true to write to a file
             System.out.println("Writing to file" + s);
             try {
                 System.setOut(new PrintStream(new FileOutputStream(s)));
