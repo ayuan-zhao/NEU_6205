@@ -31,7 +31,7 @@ public class DuplicateNTest {
     }
 
     private void testBed() {
-        simpleTests();
+//        simpleTests();
         randomTests();
         System.out.println("All test cases passed. You will get full grade now");
         System.out.println("Include only DuplicateN.java and the output of this program for FULL grade");
@@ -159,8 +159,8 @@ public class DuplicateNTest {
 
     public static void main(String[] args) {
         //Change path below
-        String s = "C:\\Users\\jag\\OneDrive\\vasu\\work\\java11\\objects\\afi\\DuplicateN\\duplicateNoutput.txt";
-        if (false) { //Make it to true to write to a file
+        String s = "/Users/ayuan/NEU_code/NEU_6205/output/duplicateNoutput.txt";
+        if (true) { //Make it to true to write to a file
             System.out.println("Writing to file" + s);
             try {
                 System.setOut(new PrintStream(new FileOutputStream(s)));
