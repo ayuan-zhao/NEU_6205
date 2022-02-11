@@ -31,7 +31,7 @@ public class DuplicateNTest {
     }
 
     private void testBed() {
-//        simpleTests();
+        simpleTests();
         randomTests();
         System.out.println("All test cases passed. You will get full grade now");
         System.out.println("Include only DuplicateN.java and the output of this program for FULL grade");
