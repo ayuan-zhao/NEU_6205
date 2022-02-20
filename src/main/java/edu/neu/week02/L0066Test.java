@@ -1,12 +1,9 @@
 package edu.neu.week02;
 
-import edu.neu.week01.IntUtil;
+import edu.neu.IntUtil;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.PrintStream;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 
 /**
  * File Name: L0066Test.java

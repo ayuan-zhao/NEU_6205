@@ -2,6 +2,7 @@
 package edu.neu.week01;
 
 
+import edu.neu.IntUtil;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.PrintStream;

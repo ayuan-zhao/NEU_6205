@@ -1,5 +1,5 @@
 
-package edu.neu.week01;
+package edu.neu;
 
 import java.io.FileWriter;
 import java.io.IOException;

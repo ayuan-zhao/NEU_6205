@@ -1,6 +1,6 @@
 package edu.neu.week03;
 
-import edu.neu.week01.IntUtil;
+import edu.neu.IntUtil;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.PrintStream;
@@ -160,7 +160,7 @@ public class DuplicateNTest {
     public static void main(String[] args) {
         //Change path below
         String s = "/Users/ayuan/NEU_code/NEU_6205/output/duplicateNoutput.txt";
-        if (true) { //Make it to true to write to a file
+        if (false) { //Make it to true to write to a file
             System.out.println("Writing to file" + s);
             try {
                 System.setOut(new PrintStream(new FileOutputStream(s)));

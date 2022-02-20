@@ -9,7 +9,7 @@ package edu.neu.week03;
  * @year 2021
  */
 
-import edu.neu.week01.IntUtil;
+import edu.neu.IntUtil;
 import java.util.Arrays;
 
 /************************************************************
