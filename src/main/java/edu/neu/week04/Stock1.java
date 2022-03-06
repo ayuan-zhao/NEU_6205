@@ -162,7 +162,7 @@ class Stock1 extends Stock1Base {
     public static void main(String[] args) {
         //Change path below
         String s = "/Users/ayuan/NEU_code/NEU_6205/output/stockResult.txt";
-        if (false) { //Make it to true to write to a file
+        if (true) { //Make it to true to write to a file
             System.out.println("Writing to file" + s);
             try {
                 System.setOut(new PrintStream(new FileOutputStream(s)));

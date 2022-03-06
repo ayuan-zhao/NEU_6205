@@ -121,7 +121,7 @@ public class L0066Test {
     public static void main(String[] args) {
         //Change path below
 
-        String s = "/Users/ayuan/NEU_code/6205/Ayuan_Zhao_NUID002981832_6205/L0066output.txt";
+        String s = "/Users/ayuan/NEU_code/NEU_6205/output/L0066.txt";
         if (true) { //Make it to true to write to a file
             System.out.println("Writing to file" + s);
             try {
