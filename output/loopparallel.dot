@@ -1,0 +1,6 @@
+digraph g {
+edge [color=red]
+s -> 0 [lable = 1.0]
+0 -> 1 [lable = 5.0]
+1 -> t [lable = 1.0]
+}
