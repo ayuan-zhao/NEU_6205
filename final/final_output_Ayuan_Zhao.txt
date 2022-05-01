@@ -1,0 +1,12 @@
+/usr/local/zulu8.46.0.19-ca-jdk8.0.252/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=52170:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /usr/local/zulu8.46.0.19-ca-jdk8.0.252/jre/lib/charsets.jar:/usr/local/zulu8.46.0.19-ca-jdk8.0.252/jre/lib/ext/cldrdata.jar:/usr/local/zulu8.46.0.19-ca-jdk8.0.252/jre/lib/ext/dnsns.jar:/usr/local/zulu8.46.0.19-ca-jdk8.0.252/jre/lib/ext/jaccess.jar:/usr/local/zulu8.46.0.19-ca-jdk8.0.252/jre/lib/ext/localedata.jar:/usr/local/zulu8.46.0.19-ca-jdk8.0.252/jre/lib/ext/nashorn.jar:/usr/local/zulu8.46.0.19-ca-jdk8.0.252/jre/lib/ext/openjsse.jar:/usr/local/zulu8.46.0.19-ca-jdk8.0.252/jre/lib/ext/sunec.jar:/usr/local/zulu8.46.0.19-ca-jdk8.0.252/jre/lib/ext/sunjce_provider.jar:/usr/local/zulu8.46.0.19-ca-jdk8.0.252/jre/lib/ext/sunpkcs11.jar:/usr/local/zulu8.46.0.19-ca-jdk8.0.252/jre/lib/ext/zipfs.jar:/usr/local/zulu8.46.0.19-ca-jdk8.0.252/jre/lib/jce.jar:/usr/local/zulu8.46.0.19-ca-jdk8.0.252/jre/lib/jfr.jar:/usr/local/zulu8.46.0.19-ca-jdk8.0.252/jre/lib/jsse.jar:/usr/local/zulu8.46.0.19-ca-jdk8.0.252/jre/lib/management-agent.jar:/usr/local/zulu8.46.0.19-ca-jdk8.0.252/jre/lib/resources.jar:/usr/local/zulu8.46.0.19-ca-jdk8.0.252/jre/lib/rt.jar:/usr/local/zulu8.46.0.19-ca-jdk8.0.252/lib/dt.jar:/usr/local/zulu8.46.0.19-ca-jdk8.0.252/lib/jconsole.jar:/usr/local/zulu8.46.0.19-ca-jdk8.0.252/lib/sa-jdi.jar:/usr/local/zulu8.46.0.19-ca-jdk8.0.252/lib/tools.jar:/Users/ayuan/NEU_code/NEU_6205/target/classes edu.neu.finala.TestExam
+Test.java EXAM STARTS
+Weight = 5
+work =   5
+MY NAME AS SHOWN ON CANVAS iS : Ayuan Zhao
+Time  complexity OF MY CODE is : O(n)
+Space complexity OF MY CODE is : O(n)
+NOTE REAL TEST BENCH WILL BE POSTED AFTER EXAM.
+RUN ON YOUR OWN TO SEE WHERE YOU STAND.
+Test.java EXAM ENDS
+
+Process finished with exit code 0
